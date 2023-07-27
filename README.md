@@ -8,14 +8,14 @@ The benchmark is designed to use 1 compute node, representing and I/O leader. Th
 For more information on our benchmark, please look for our short paper in the International Symposium on Parallel and Distributed Computing 2023 (ISPDC23) proceedings
 
 Use of this benchmark requires the following libraries:
-Cmake \\
-Boost \\
-OpenMP \\
+Cmake <br />
+Boost <br />
+OpenMP <br />
 
 To build the benchmark, simply run the following commands:
-mkdir build \\
-cd build \\
-cmake .. \\
-make \\
+mkdir build <br />
+cd build <br />
+cmake .. <br />
+make <br />
 
 To execute the benchmark, we provide an example bash script for reference, the first execution runs a contiguous write pattern and the second execution uses an interleaved write pattern. 
