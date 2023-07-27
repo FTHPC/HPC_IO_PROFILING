@@ -7,7 +7,7 @@ The benchmark is designed to use 1 compute node, representing and I/O leader. Th
 
 For more information on our benchmark, please look for our short paper in the International Symposium on Parallel and Distributed Computing 2023 (ISPDC23) proceedings
 
-Use of this benchmark requires the following libraries:
+Use of this benchmark requires the following libraries: <br />
 Cmake <br />
 Boost <br />
 OpenMP <br />
